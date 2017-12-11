@@ -26,7 +26,7 @@ tweets = []   # list where to store data
 tweets_per_request = 100
 max_tweets_to_be_fetched = 10000   # number of tweets you want fetch (optional)
 
-search_query = "geocode:45.533471,-73.552805,12mi since:2017-12-01"
+search_query = "geocode:45.533471,-73.552805,12mi"
 
 max_id = None
 since_id = None
