@@ -134,5 +134,5 @@ Temporary Items
 .idea/
 
 ## custom
-config.ini
+# config.ini
 Archive/
