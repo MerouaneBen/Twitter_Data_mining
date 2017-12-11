@@ -131,7 +131,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
+.idea/
 
 ## custom
 config.ini
+Archive/
